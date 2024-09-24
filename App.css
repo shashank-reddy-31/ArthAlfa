@@ -1,0 +1,29 @@
+.textarea-container {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display:flex;
+    flex-direction: column;
+    justify-content:center
+  }
+
+  .statistics {
+    margin-top: 10px;
+  }
+
+  .replacement-controls {
+    margin-top: 20px;
+  }
+  .ButtonElement {
+    background-color: lightblue;
+    color:black;
+  }
+  .uniqueWord {
+    color:red;
+    font-family:"roboto"
+  }
+.uniqueChar {
+    color:red;
+    font-family:"roboto"
+}
